@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/phontera/.dotnet/store/|arch|/|tfm|",
+      "/home/phontera/.nuget/packages"
+    ]
+  }
+}

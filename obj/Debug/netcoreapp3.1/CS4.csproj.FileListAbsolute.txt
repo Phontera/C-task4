@@ -1,0 +1,13 @@
+/home/phontera/CS4/bin/Debug/netcoreapp3.1/CS4
+/home/phontera/CS4/bin/Debug/netcoreapp3.1/CS4.deps.json
+/home/phontera/CS4/bin/Debug/netcoreapp3.1/CS4.runtimeconfig.json
+/home/phontera/CS4/bin/Debug/netcoreapp3.1/CS4.runtimeconfig.dev.json
+/home/phontera/CS4/bin/Debug/netcoreapp3.1/CS4.dll
+/home/phontera/CS4/bin/Debug/netcoreapp3.1/CS4.pdb
+/home/phontera/CS4/obj/Debug/netcoreapp3.1/CS4.csprojAssemblyReference.cache
+/home/phontera/CS4/obj/Debug/netcoreapp3.1/CS4.csproj.CoreCompileInputs.cache
+/home/phontera/CS4/obj/Debug/netcoreapp3.1/CS4.AssemblyInfoInputs.cache
+/home/phontera/CS4/obj/Debug/netcoreapp3.1/CS4.AssemblyInfo.cs
+/home/phontera/CS4/obj/Debug/netcoreapp3.1/CS4.dll
+/home/phontera/CS4/obj/Debug/netcoreapp3.1/CS4.pdb
+/home/phontera/CS4/obj/Debug/netcoreapp3.1/CS4.genruntimeconfig.cache
